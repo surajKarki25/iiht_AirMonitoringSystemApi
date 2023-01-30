@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\iiht_AirMonitoringSystemApi.props" />
+</Project>
